@@ -12,7 +12,7 @@ namespace DAL
         {
             get
             {
-                return "Data Source=DCLC;Initial Catalog=estoquedb;User ID=user20191;Password=***********";
+                return "Data Source=DCLC;Initial Catalog=estoquedb;User ID=dc;Password=Vml#@975411530";
             }
         }
     }
